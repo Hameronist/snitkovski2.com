@@ -1,0 +1,23 @@
+@import "reset/reset.css";
+
+body{
+    padding: 15px;
+    font-family: monospace;
+}
+
+.link-second-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: larger;
+    font-weight: bolder;
+    width: 250px;
+    height: 100px;
+    border: 0px;
+    color: white;
+    background-color: #8bb84d;
+    border-radius: 15px;
+    margin: 445px auto;
+}
